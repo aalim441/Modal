@@ -32,7 +32,7 @@ Dialog 창을 하나 더 띄워보았습니다.
 
 ![cap4](./img/cap4.PNG)
 
-Delete 기능을 넣어 ListBox 에 있던 값 11,30을 지워보았습니다.
+Delete 기능을 넣어 ListBox 에 있던 값 11을 지워보았습니다.
 GetCurSel() 함수를 이용하여 선택한 값의 인덱스를 받아 
 DeleteString(index) 함수로 그 인덱스의 라인을 지웠습니다. 
 
