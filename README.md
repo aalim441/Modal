@@ -7,7 +7,7 @@
 
 첫 화면입니다.
 Calcul(Modal) 버튼을 누를 경우 Modal Dialog가 실행이 되고
-Calcul(Modaless) 버튼을 누를 경우 Modal Dialog가 실행이 됩니다.
+Calcul(Modaless) 버튼을 누를 경우 Modaless Dialog가 실행이 됩니다.
 
 저는 기본적으로 사칙연산 계산기를 구현하였습니다.
 
@@ -35,4 +35,5 @@ Dialog 창을 하나 더 띄워보았습니다.
 Delete 기능을 넣어 ListBox 에 있던 값 11,30을 지워보았습니다.
 GetCurSel() 함수를 이용하여 선택한 값의 인덱스를 받아 
 DeleteString(index) 함수로 그 인덱스의 라인을 지웠습니다. 
+
 
